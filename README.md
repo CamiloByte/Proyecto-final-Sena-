@@ -9,10 +9,10 @@
 - **Sistema CRUD:** Implementamos un sistema completo de operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para clientes, recepción y facturas, proporcionando una experiencia de gestión intuitiva y completa.
 - **Modelo Relacional:** En la carpeta `docs`, puedes encontrar una imagen que representa el modelo relacional de la base de datos utilizado en esta aplicación.
 
-https://raw.githubusercontent.com/CamiloByte/Proyecto-final-Sena-/master/Proyecto.png
+(https://raw.githubusercontent.com/CamiloByte/Proyecto-final-Sena-/master/Proyecto.png)
 ## Modelo Relacional
 
-https://github.com/CamiloByte/Proyecto-final-Sena-/blob/master/Modelo%20Relacional.png
+(https://github.com/CamiloByte/Proyecto-final-Sena-/blob/master/Modelo%20Relacional.png)
 
 
 
