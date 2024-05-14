@@ -12,7 +12,7 @@
 https://raw.githubusercontent.com/CamiloByte/Proyecto-final-Sena-/master/Proyecto.png
 ## Modelo Relacional
 
-https://raw.githubusercontent.com/CamiloByte/Proyecto-final-Sena-/master/Modelo%20Relacional.png
+https://github.com/CamiloByte/Proyecto-final-Sena-/blob/master/Modelo%20Relacional.png
 
 
 
