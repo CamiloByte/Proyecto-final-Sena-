@@ -10,7 +10,7 @@
 - **Modelo Relacional:** En la carpeta `docs`, puedes encontrar una imagen que representa el modelo relacional de la base de datos utilizado en esta aplicación.
 
 
-!(https://raw.githubusercontent.com/CamiloByte/Proyecto-final-Sena-/master/Proyecto.png)
+![Aplicación](https://raw.githubusercontent.com/CamiloByte/Proyecto-final-Sena-/master/Proyecto.png)
 
 ## Modelo Relacional
 ![Modelo Relacional](https://github.com/CamiloByte/Proyecto-final-Sena-/blob/master/Modelo%20Relacional.png)
